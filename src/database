@@ -1,0 +1,1 @@
+create table kilosale (id INTEGER PRIMARY KEY AUTOINCREMENT , name text )
